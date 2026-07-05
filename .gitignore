@@ -1,0 +1,20 @@
+#Python
+.venv/
+__pycache__/
+*.pyc 
+
+#MLflow
+mlruns/
+mlflow.db
+
+#DVC cache 
+.dvc/cache/
+
+#VS Code 
+.vscode/
+
+#Python cache 
+.pytest_cache/
+
+#Logs
+*.log
