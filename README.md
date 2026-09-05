@@ -1,4 +1,4 @@
-This is my Solution to task 4 (look at number 4 to read the problem)
+This is my Solution to task 4 (scroll down to the task: Create a CI/CD Pipeline)
 
 
 Predictive Modeling and Deployment
